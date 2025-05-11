@@ -4,5 +4,5 @@ Developed a simple website using React to practice fetching data from public API
 
 Check out the deployed version of the project by clicking the link below:  
 
-[Explore PokeCardHub Now!](pokecardhub.netlify.app)
+[Explore PokeCardHub Now!](https://pokecardhub.netlify.app/)
 
